@@ -4,7 +4,7 @@ import com.hhera.pojo.Cart;
 
 public interface CartMapper {
     int deleteByPrimaryKey(Integer id);
-
+sadasd
     int insert(Cart record);
 
     int insertSelective(Cart record);
