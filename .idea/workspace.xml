@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="555b2131-5f97-4efc-9f5c-504003e0c98e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="555b2131-5f97-4efc-9f5c-504003e0c98e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -192,7 +190,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="94" />
     <option name="y" value="22" />
     <option name="width" value="1826" />
@@ -765,12 +763,12 @@
       <workItem from="1504527125431" duration="308000" />
       <workItem from="1504540130857" duration="34000" />
       <workItem from="1504580329005" duration="2932000" />
-      <workItem from="1504596224335" duration="1877000" />
+      <workItem from="1504596224335" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6437000" />
+    <option name="totallyTimeSpent" value="7016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="94" y="22" width="1826" height="1058" extended-state="0" />
@@ -1036,16 +1034,16 @@
         <state relative-caret-position="271">
           <caret line="49" column="90" lean-forward="false" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
           <folding>
-            <element signature="e#1549#1572#0" expanded="true" />
-            <element signature="e#1610#1621#0" expanded="true" />
-            <element signature="e#1664#1680#0" expanded="true" />
-            <element signature="e#1723#1739#0" expanded="true" />
-            <element signature="e#1813#1832#0" expanded="true" />
-            <element signature="e#1901#1918#0" expanded="true" />
-            <element signature="e#2033#2048#0" expanded="true" />
-            <element signature="e#2152#2167#0" expanded="true" />
-            <element signature="e#2260#2275#0" expanded="true" />
-            <element signature="e#2438#2463#0" expanded="true" />
+            <element signature="e#1549#1572#0" expanded="false" />
+            <element signature="e#1610#1621#0" expanded="false" />
+            <element signature="e#1664#1680#0" expanded="false" />
+            <element signature="e#1723#1739#0" expanded="false" />
+            <element signature="e#1813#1832#0" expanded="false" />
+            <element signature="e#1901#1918#0" expanded="false" />
+            <element signature="e#2033#2048#0" expanded="false" />
+            <element signature="e#2152#2167#0" expanded="false" />
+            <element signature="e#2260#2275#0" expanded="false" />
+            <element signature="e#2438#2463#0" expanded="false" />
           </folding>
         </state>
       </provider>
